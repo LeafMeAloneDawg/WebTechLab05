@@ -1,0 +1,49 @@
+/*
+
+filename: Mason Curlis
+
+author: Mason Curlis
+
+created: 27/8/26
+
+last modified: 27/8/26
+
+description: lab04.html
+
+*/
+
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+* {color:#2F4F4F;}
+h2 {color:rgb(0,128,128); font-weight:bold; font-size: 150%;}
+
+aside, footer {font-style: italic;}
+
+h1, h2, h3 {font-family: Arial, Helvetica, sans-serif;}
+
+table, th, td {border: 1px solid black;}
+
+#images {text-align:center;}
+
+#headings {color:red;}
+
+.special {
+    color: darkorange;
+    font-weight: bold;}
+
+.selectedMonths {text-align: right;}
+
+nav a {
+          text-decoration: none;
+          padding:0.2em 0.6em;
+          border: 4px solid #ccc;
+         }   
+ol ul {list-style-type: square;}
+
+aside:hover{opacity: 0;}
+
+nav a:hover {background-color: lightblue; border-color: darkblue;}
